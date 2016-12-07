@@ -16,4 +16,35 @@ I came down with a cold this week, that along with having to travel long distanc
 
 PERFORCE!!! This is my main blocker at this time, every attempt I have made to understand its working and get it working correctly has resulted in more confusion and frustration. I will be looking into GitHub Large File Storage as an alternative to this, as I am very familiar with how GitHub works. My time schedule is working quite well although my essay needs to catch up alongside my journal. Although I have a plan to get the journals done, I will treat them like and essay and gather resources together in one session and write my notes up on them. This will require a full day for each. The evaluation for the UI peer review did not go as well as expected as I was unprepared for the format that the peer review was done. We had to stand up and present our findings to the class, this would not have been a problem if I had known that this was the method that was going to be used. Next week I will definitely make some leeway on the ethics research.
 
-##Week Five (Current)
+##Week Five
+
+The transition over to github was a simple one, as long as the git ignore is set up correctly it all worked out. This has made the workflow a lot smoother not having to constantly fight perforce. For the short time that semester two has been going I have found it difficult to work on other subjects other than Project VoT. I cant seem to make up my mind is its the lack of interest in the graphics or the difficulty of it, Either way its a struggle to get the project going. 
+
+##Week Six
+
+This week was a good week, except for a minor issue with the university computers and their admin privileges, Git LFS along with unreal had a glitch where a file saved too large and LFS couldn't pick it up. This issue was solved by repeating the process at home which fixed the size of the file as well as git LFS correctly tracking these files extensions. No progress so far has been made on my VR project. I have made an attempt at the comp220 graphics but an getting nowhere fast. I should ask for assistance for this module but I loath to ask for help when everyone else seems to be getting on well with their work contrary to what they say.
+
+##Week Seven
+
+I have made little progress this week 
+
+##Week Eight
+
+another breakdown
+
+##Week Nine
+
+This week I went home to write my essay, nothing had been done in the way of writing it even the bibliography hadn't been done. Luckily I managed to get both of these done that weekend. I believe that I was just procrastinating something that I didn't want to do so I just forced myself to get it done. I'm not sure where this lack of enthusiasm has come from as at the beginning of the semester I was very excited to get on with the course. This is something I wish to work on over the coming weeks and Christmas as I can not finish this degree at a good standard with my current attitude.
+
+##Week Ten
+
+The essay and research journals deadlines are next Monday. The comp210 project is non-existent I'm not sure how I'm going to go about doing it, I will speak to my tutor to see how I could go about getting it done. Where the research journals are concerned I wrote them on the weekend, though I could have written more for both of them, I honestly have begun loosing my patience with reading academic research, that along with the lack of time. It has come to my attention that time management will be a constant struggle throughout my life, the best I can do is to do my best, at trying to keep myself organised. where the essay is concerned I have added the results and conclusion which finished off the paper nicely, mu only regret with this paper is that I did not get the survey out soon enough and push it on people to complete. Perhaps next time I shall get some artists to provide the examples needed for the survey to have a more accurate representation of the female body that I was trying to achieve.
+
+##Week Eleven
+
+My deadlines for my practical projects are next Monday. The comp210 project is little more than a design document, which the tutor advised was the wiser path as time had now ran out to create a physical artefact. The main cause for this as I see it was the lack of parts available for us to use for the interface. The comp220 has been difficult I could not get my head around OpenGL and the tutorials online were less than helpful. In the end all I had was a black ball, The code for lighting, texturing and loading .obj files is there, just getting them to function correctly seemed to be beyond my current ability. This has been difficult to live with as I like to at least keep up with others and not fall behind. On the other hand comp230 has gone great, I have really enjoyed working with my team on project VoT and I have no worries about the module.
+
+##Week Twelve 
+
+
+
