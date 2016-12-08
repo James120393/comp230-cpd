@@ -30,7 +30,7 @@ I have made little progress this week other than a few things on my comp230. I'm
 
 ##Week Eight
 
-The same as last week.
+This week was not so different from last week, my projects are making little progress and its difficult to keep going. I will be going home to try and get the essay done, hopefully that will throw me into action for my other modules.
 
 ##Week Nine
 
